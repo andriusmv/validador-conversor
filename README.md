@@ -15,6 +15,9 @@ Complemento para QGIS que permite validar y convertir archivos geográficos a fo
 2. En QGIS: `Complementos > Administrar e instalar complementos > Instalar desde archivo ZIP`
 3. Selecciona el archivo descargado y sigue los pasos.
 
+## Archivos de prueba
+Se incluye la carpeta "testFiles.zip" que contiene archivos de prueba. Incluye: archivos con extensión válida y no válida, bounding box del área geográfica de interés, archivos dentro y fuera del área geográfica de interés, archivo con peso superior a 2 MB.
+
 ## Requisitos
 
 - QGIS 3.10 o superior
