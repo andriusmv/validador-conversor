@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin>
+    <name>ValidadorConversor</name>
+    <version>1.0.0</version>
+    <description>Valida y convierte archivos geográficos a formato .shp comprimido en .zip</description>
+    <about>Complemento que permite validar formatos, extensión geográfica, duplicados y peso de archivos geográficos. Exporta automáticamente como Shapefile comprimido en ZIP.</about>
+    <qgisMinimumVersion>3.10</qgisMinimumVersion>
+    <qgisMaximumVersion>3.28</qgisMaximumVersion>
+    <author>Andres Moreno</author>
+    <email>idu057962@usal.es</email>
+    <homepage>https://github.com/andriusmv/validador-conversor</homepage>
+    <tracker>https://github.com/andriusmv/validador-conversor/issues</tracker>
+    <repository>https://github.com/andriusmv/validador-conversor</repository>
+    <downloads>
+      <download_url>https://github.com/andriusmv/validador-conversor/archive/refs/heads/master.zip</download_url>
+      <file_name>validador_conversor.zip</file_name>
+      <icon>https://raw.githubusercontent.com/andriusmv/validador-conversor/master/icon.png</icon>
+    </downloads>
+    <experimental>false</experimental>
+    <deprecated>false</deprecated>
+    <tags>shapefile,validación,conversión,zip,qgis,bid</tags>
+  </plugin>
+</plugins>
