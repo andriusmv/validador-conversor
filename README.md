@@ -1,4 +1,5 @@
 # ValidadorConversor para QGIS
+![Validador Conversor banner](https://github.com/andriusmv/validador-conversor/raw/main/banner.png)
 
 Complemento para QGIS que permite validar y convertir archivos geográficos a formato `.shp` comprimido `.zip`. Incluye:
 
